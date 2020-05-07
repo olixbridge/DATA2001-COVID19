@@ -23,3 +23,14 @@ Goal: Practical experience with data variety, data analysis, and presentation �
 • CorrelationofyourscorewithCOVID-19testsandconfirmedcases
 
 3. Documentationand(brief)Report
+
+The data we are using:
+– ABS Data
+– Census data on neighbourhoods (SA2-level areas) in Greater Sydney
+such as population, land area, number of dwellings, gender and age distribution – Health Services in NSW
+– Location and some states (e.g. average available hospital beds)
+– COVID-19 Data
+– Conductedtestsandconfirmedcasesbypostcodetocheckforcorrelationwith
+– Note that SA2-level data from the ABS does not always match suburbs,
+and that the health services have a GPS location, but not the neighbourhoods
+– cf.tutorialthisweekonhowtoretrieveboundarydataforneighbourhoodstoo
