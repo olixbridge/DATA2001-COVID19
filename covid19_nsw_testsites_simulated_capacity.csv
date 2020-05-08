@@ -1,0 +1,113 @@
+site_id,Centre name,Phone number,Opening hours,longitude,latitude,test_capacity
+0,4Cyte Pathology Camden (Drive-through clinic),0468 597 821,Mon to Fri: 9am - 5pm,151.2004433,-33.9014313,70
+1,4Cyte Pathology Newcastle (Drive-through clinic),02 4950 2200,-,151.2004433,-33.9014313,100
+2,4Cyte Pathology North Blacktown (Drive-through clinic),0434 925 593,"Mon to Fri: 9am-5pm, Sat & Sun: 11am-2pm",150.9119790152078,-33.774016880682694,70
+3,4Cyte Pathology North Ryde (Drive-through clinic),0466 636 034,"Mon to Fri: 8am 6pm, Sat: 9am-5pm, Sun: 9am-2pm",151.2004433,-33.9014313,70
+4,4Cyte Pathology Stanmore (Drive-through clinic),0435 085 052,"Mon to Fri: 9am - 6pm, Sat: 9am - 2pm",151.2004433,-33.9014313,50
+5,Belmore Medical Respiratory Clinic,(02) 9740 3211 (online booking also available),"10am–2pm, Monday to Friday",151.08796021521152,-33.92054568064188,50
+6,Canada Bay (Drive-through clinic),-,8:30am - 4pm Daily,151.2004433,-33.9014313,80
+7,Double Bay Doctors (Drive-through clinic),(02) 9328 3100,2.00 - 4.30 pm Monday to Friday,151.24296551521036,-33.87610398065428,60
+8,Inner West GP Respiratory Clinic,Appointments can be made online,"8:30am–6pm, Monday to Friday 9am–1pm, Saturday",151.17288691521009,-33.85816848065917,70
+9,Kirketon Road Centre Mobile Clinic,A walk-in service for homeless and/or disadvantaged patients,"12:30pm–9pm, Monday to Friday",151.2004433,-33.9014313,70
+10,Ryde GP Respiratory Clinic,Appointments can be made online,"8am–5pm, 7 days",151.12329421520792,-33.78005368068084,80
+11,Bondi Junction Respiratory Clinic,(02) 9194 2788,"Mon to Fri: 9am-9pm, Sat: 10am-4pm",151.24442981521085,-33.89251188064971,70
+12,Australian Clinical Labs (Auburn),02 9646 3069,Mon to Wed: 8am–3pm Thur to Sat: 8am–12pm,151.2004433,-33.9014313,60
+13,Australian Clinical Labs (Bankstown),02 9709 6314,Mon to Thur: 7.30am-4.00pm Fri: 7.30am-1.30pm Sat: 7.30am-11.30am,151.0304448152115,-33.91475718064347,50
+14,Australian Clinical Labs (Blacktown),02 8822 3026,Mon to Thur: 7.30am-4.00pm Fri: 7.30am-1.30pm Sat: 7.30am-11.30am,150.90266741520765,-33.7690170806839,80
+15,Australian Clinical Labs (Campsie),02 9789 6220,Mon to Fri: 8am-1pm,151.10161851521144,-33.914775780643545,60
+16,Australian Clinical Labs (Charlestown),02 4942 4868,Mon to Fri: 7:30am-12pm,151.69397171518685,-32.96403798091596,60
+17,Australian Clinical Labs (Windsor),02 4560 5443,Mon to Fri: 8am-4pm,150.8174308152035,-33.61034098072846,90
+18,Douglass Hanly Moir Pathology (Blacktown),1800 026 622,Mon to Fri: 7.30am-3pm,150.9115246152078,-33.77441918068243,50
+19,Douglass Hanly Moir Pathology (Cabramatta),1800 026 622,Mon to Fri: 8am-4pm,150.93206801521092,-33.895082280649014,80
+20,Douglass Hanly Moir Pathology (Campbelltown),1800 026 622,Mon to Fri: 9am-5pm,151.2004433,-33.9014313,70
+21,Douglass Hanly Moir Pathology (Campsie),1800 026 622,Mon to Fri: 9am-4:30pm,151.2004433,-33.9014313,100
+22,Douglass Hanly Moir Pathology (Charlestown),1800 026 622,Mon to Fri: 8am–4pm,151.69492221518675,-32.96501658091559,80
+23,Douglass Hanly Moir Pathology (Emu Plains),1800 026 622,Mon to Fri: 8am–4pm,150.64976911520696,-33.74319508069115,50
+24,Douglass Hanly Moir Pathology (Liverpool),1800 026 622,Mon to Fri: 9am-5.30pm,150.92404571521175,-33.92246988064137,100
+25,Douglass Hanly Moir Pathology (North Ryde),1800 026 622,Mon to Fri: 9am-4:30pm,151.2004433,-33.9014313,70
+26,Douglass Hanly Moir Pathology (Oatley),1800 026 622,Mon to Fri: 8am-4pm,151.07112861521313,-33.98007508062561,50
+27,Douglass Hanly Moir Pathology (Rutherford),1800 026 622,Mon to Fri: 8am-4pm,151.52525931518036,-32.715818980990484,50
+28,Douglass Hanly Moir Pathology (St Leonards),1800 026 622,Mon to Sat: 9am-4:30pm,151.2004433,-33.9014313,100
+29,Douglass Hanly Moir Pathology (Sydney),1800 026 622,Mon to Fri: 7.45am-3pm,151.2004433,-33.9014313,50
+30,Douglass Hanly Moir Pathology (Tuggerah),1800 026 622,Mon to Fri: 8am-4pm,151.42132301519575,-33.312742180813544,50
+31,Douglass Hanly Moir Pathology (Windsor),1800 026 622,Mon to Fri: 7.40am–3pm,150.81517741520355,-33.609209480728836,90
+32,Douglass Hanly Moir Pathology (Woy Woy),1800 026 622,Mon to Fri: 7.30am-3.30pm,151.2004433,-33.9014313,50
+33,Douglass Hanly Moir Pathology Auburn (Drive-through clinic),1800 026 622,"9am–4:30pm, 7 days a week",151.2004433,-33.9014313,100
+34,Auburn Hospital,(02) 8759 3000,"10am-10pm, 7 days a week",151.03049551521,-33.85933788065888,100
+35,Bankstown-Lidcombe Hospital,(02) 9722 8000,"10am- 5:30pm, Monday-Friday 10am-3pm, Saturday-Sunday and Public Holidays",151.2004433,-33.9014313,50
+36,Bathurst Base Hospital,(02) 6330 5311,"9am-5:30pm, Monday-Friday",149.57626771519833,-33.4142204807843,60
+37,Belmont Hospital (Drive-through clinic),Please call ahead on (02) 4923 2211,"8am-4:30pm, 7 Days",151.2004433,-33.9014313,80
+38,Blacktown Hospital (Booking required),02 9881 8000,"​7am-11pm, 7 days",150.9152969152077,-33.775571480682174,60
+39,Blue Mountains Hospital,(02) 4784 6500,"9am-5pm, seven days a week",150.31654021520603,-33.70611868070149,100
+40,Bondi Beach (Drive-through clinic),-,"9am-4pm, 7 days a week​",151.2004433,-33.9014313,70
+41,​Bowral and District Hospital (Outpatients Clinic),(02) 4861 0200,"10am- 5:30pm, Monday-Friday 10am-3pm, Saturday-Sunday and Public Holidays",150.42878261522645,-34.48718338048988,90
+42,Broken Hill Health Service,(08) 8080 1300,"10am-8pm, 7 Days",141.4493585151612,-31.950545381229357,90
+43,Byron Central Hospital (GP room 2 in Fast Track Clinic),(02) 6639 9400,"10am-4pm, 7 days",141.4493585151612,-31.950545381229357,100
+44,​Calvary Mater Newcastle,(02) 4921 1211,"​8am-4pm, Monday-Friday",151.71894551518506,-32.900134480935066,60
+45,Campbelltown Hospital,(02) 4634 3000,"10am- 5:30pm, Monday-Friday 10am-3pm, Saturday-Sunday and Public Holidays",150.8006232152158,-34.07997868059834,80
+46,Coffs Harbour Health Campus,(02) 6656 7000,"9am-2pm, 7 days",153.09181471512156,-30.31798348178362,100
+47,Concord Hospital (NSW Institute of Sports Medicine),(02) 9767 5000,"8am-10pm, 7 days",151.08959921520935,-33.83706988066498,50
+48,Cooma Health Service,Call ahead on 02 6455 0000,"11:30am-2pm, Monday-Friday",151.2004433,-33.9014313,100
+49,​Cootamundra Hospital,Booking required via 1800 831 099,"​12pm-4pm, Monday-Friday",148.0107532152304,-34.63452748045147,90
+50,​Deniliquin Community Health Building,Booking required via 1800 831 099,"​10am-2pm, Monday-Friday",151.2004433,-33.9014313,50
+51,Dubbo Base Hospital,(02) 6809 6809,"8am-8pm, 7 days",148.6298673151685,-32.24271108113662,80
+52,Eurobodalla Heal​th Service (Booking required),Booking required via 1800 999 880,"8:30am-3pm, Monday-Saturday",150.068213415265,-35.904130280142915,80
+53,​Fairfield Hospital (clinic opposite ED),(02) 9616 8111,"10am- 5:30pm, Monday-Friday 10am-3pm, Saturday-Sunday and Public Holidays",150.90212691520992,-33.85735978065947,100
+54,Gosford Hospital,(02) 4320 2111,"9am-5pm, Monday-Friday 10am-4pm, Saturday-Sunday",151.33865451519853,-33.42109998078228,100
+55,Goulburn Base Hospital (Booking required),Call ahead on 1800 999 880,"1pm-5pm, Monday-Saturday",149.71099661523354,-34.74786568042238,60
+56,Grafton Base Hospital (Booking required),Call ahead on 1800 831 099,"​10am-6pm, 7 days",146.0463145152211,-34.2812098805443,60
+57,Griffith Base Hospital (Booking required),Call ahead on 1800 831 099,"9am-1:45pm, 7 days",151.2004433,-33.9014313,50
+58,Hawkesbury Hospital (Mobile Clinic Van),-,"​10am-3pm, Monday-Friday",150.8174308152035,-33.61034098072846,60
+59,​Hay Hospital,Call ahead on 1800 831 099,"10am-12pm, Monday-Friday",151.2004433,-33.9014313,100
+60,Hornsby Ku-ring-gai Hospital,(02) 9477 9123,"10am-8pm, 7 days",151.10909961520596,-33.70284068070246,50
+61,Hurstville Community Health Centre,(02) 9570 0500,"9am-4pm, Monday - Friday",151.2004433,-33.9014313,80
+62,John Hunter Hospital,(02) 4921 3000,"8am-10.30pm, 7 days",151.2004433,-33.9014313,90
+63,Kempsey Health Campus,1300 001 956,"8am-12pm, Monday-Friday",152.81861961513957,-31.067751981521678,80
+64,​Leeton District Hospital,(02) 6953 1111,"​2pm-4pm, Monday-Friday",151.2004433,-33.9014313,80
+65,Lismore Base Hospital,(02) 6624 0200,"10am-6pm, 7 days",153.2860348150867,-28.80973358234812,50
+66,Lithgow Hospital,Booking required via (02) 6350 2300,"10am-3:00pm, 7 days",150.12659881520065,-33.500163080759684,100
+67,Liverpool Hospital,(02) 8738 3000,"10am-5:30pm, Monday-Friday 10am–3pm, Saturday & Sunday",151.2004433,-33.9014313,50
+68,​Maitland Hospital,(02) 4939 2000,"​10am-4pm, Monday-Friday",151.2004433,-33.9014313,50
+69,​Manning Hospital (Drive-through clinic),Call prior to visiting on 02 6592 9850,"8am-4pm, 7 days",152.45295901516022,-31.910424981242233,90
+70,Mona Vale Hospital,(02) 9998 6300 ​,"10am-6pm, 7 days",151.30410881520538,-33.686999280706935,50
+71,Mooree Hospital,Screening required on (02) 6757 0000,"10am-3pm, Mon to Fri (closed from 12-1)",149.83774121510183,-29.470897382094552,60
+72,Nepean Hospital,(02) 4734 2000,"10:30am-6pm, 7 days",150.71276861520732,-33.761547280686116,100
+73,Northern Beaches Hospital,(02) 9105 5000,"9:30am-6pm, 7 days",151.23083581520712,-33.751156880688946,50
+74,Orange Hospital,(02) 6369 3000,"10am-6pm, Monday-Friday",149.09176651519587,-33.31732678081224,100
+75,Port Macquarie Base Hospital,1300 001 956,"10am-4pm, Monday- Friday 10am-2pm Saturday-Sunday",152.87372541514898,-31.452854381391898,80
+76,Prince of Wales Hospital (Building 14B),(02) 9650 4000,"10am-8pm, 7 days",151.23871371521145,-33.918512280642545,50
+77,Queanbeyan Hospital (Booking required),Call ahead on 1800 999 880,"8:30am-12:30am, Monday-Saturday",149.23023981524975,-35.34749258027343,80
+78,Redfern Health Centre Clinic,(02) 9395 0444,"9am-4pm, Monday-Friday",151.20115291521086,-33.89307238064963,50
+79,Royal North Shore Hospital,(02) 9926 7111,"8am-8pm, 7 days",151.18709891520894,-33.819225780669974,70
+80,Royal Prince Alfred Hospital,(02) 9515 6111,"8am-9pm, 7 days",151.18091961521074,-33.88913768065069,50
+81,Ryde Hospital,(02) 9858 7888,"10am-8pm, 7 days",151.08692721520825,-33.79351838067708,100
+82,Scone Hospital (Drive-through clinic),(02) 6540 2100,"​1:30pm-3:30pm, Monday-Friday",150.87386141516376,-32.05191198119696,80
+83,Shellharbour Hospital,(02) 4295 2500,"8am-5pm, 7 days",150.8402893152285,-34.5579987804713,100
+84,​Shoalhaven Hospital​,(02) 4423 9500,"​​8am-4:30pm, 7 days",150.59843901523675,-34.867862580391865,90
+85,Bega Valley Health Service (Booking required),Please call ahead on 1800 999 880,"11am-2pm, Monday-Saturday",151.2004433,-33.9014313,90
+86,​Singleton Hospital (Drive-through clinic),Please call ahead on (02) 6571 9248,"​1:30pm-3:30pm, Monday-Friday",151.2004433,-33.9014313,70
+87,St George Hospital,(02) 9113 1111,"8am-6pm, 7 days",151.2004433,-33.9014313,90
+88,St Vincent's Hospital,(02) 8382 1111,"9am-4pm, 7 days",151.2004433,-33.9014313,60
+89,Summer Hill (Drive-through clinic),-,"​8:30am-4pm, 7 days ​",151.12920651521065,-33.890442980650306,90
+90,Sydney and Sydney Eye Hospital,(02) 9382 7111,"10am-6pm, Monday-Friday​",151.2004433,-33.9014313,70
+91,Sydney Children’s Hospital,(02) 9382 1111,"10am-8pm, 7 days",151.2004433,-33.9014313,100
+92,The Canterbury Hospital,(02) 9787 0000,"8am-10pm, 7 days",151.09625186521163,-33.919433630642196,100
+93,The Children’s Hospital at Westmead,(02) 9845 0000,"10am-8pm, 7 days",151.2004433,-33.9014313,90
+94,The Hub in Miller (Pop-up clinic),(02) 9608 8920,"10am-2pm, Monday-Friday (Until 1 May 2020)",150.88089641521162,-33.920261280642016,100
+95,The Sutherland Hospital,(02) 9540 7111,"8am-8pm, 7 days",151.11108301521452,-34.035183080610494,60
+96,The Tweed Hospital,(07) 5506 7000,"10am-6pm, 7 days",151.2004433,-33.9014313,90
+97,​Tumut Hospital (Booking required),Booking required via 1800 831 099,"12pm-4pm, Mon-Fri",148.21705231524862,-35.30750098028313,100
+98,Wagga Wagga Clinic (Booking required),Booking required via 1800 831 099,"9am-4:45pm, Monday-Friday 9am-2pm Saturday-Sunday",147.35630781524353,-35.118509380329286,80
+99,Westmead Hospital,(02) 8890 5555,"7am-9pm, 7 days",151.2004433,-33.9014313,50
+100,Wollongong Hospital,(02) 4222 5000,"8am-5pm, 7 days",151.2004433,-33.9014313,60
+101,Wyong Hospital,(02) 4394 8000,"9am-5pm, 7 days a week",151.4685770151946,-33.2638430808279,100
+102,Darlinghurst Respiratory Clinic,-,Book an appointment online,151.21207438403997,-33.87941619045109,90
+103,Lakemba Respiratory Clinic,-,Book an appointment online,151.2004433,-33.9014313,70
+104,Blacktown Respiratory Clinic,-,Book an appointment online,151.2004433,-33.9014313,90
+105,Riverstone Respiratory Clinic,-,Book an appointment online,151.2004433,-33.9014313,100
+106,Campbelltown Respiratory Clinic,-,Book an appointment online,150.8102799152154,-34.0682524806016,90
+107,Penrith Respiratory Clinic,-,Book an appointment online,150.6707348152077,-33.76989658068363,60
+108,Mittagong Respiratory Clinic,(02) 4800 9032,Book an appointment online,150.4408701152257,-34.452328680498916,60
+109,Raymond Terrace Respiratory Clinic,(02) 4938 0900,Book an appointment online,151.73793131518178,-32.76469398097579,70
+110,Wagga Wagga Respiratory Clinic,-,Book an appointment online,151.2004433,-33.9014313,50
+111,Murwillumbah Respiratory Clinic,-,Book an appointment online,153.39402261507584,-28.32902668253849,50
